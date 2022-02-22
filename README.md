@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tranphilong2406
+- 👋 Hi, I’m Tran Phi Long
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning c++ and java 
 
