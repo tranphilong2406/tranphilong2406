@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tran Phi Long
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning c++ and java 
+- 👀 I’m interested in golang
+- 🌱 I’m currently learning java, golang, php
 
 <!---
 tranphilong2406/tranphilong2406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
